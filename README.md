@@ -7,6 +7,7 @@ products:
 description: "Azure CosmosDB is a globally distributed multi-model database."
 urlFragment: "azure-cosmos-java-getting-started"
 ---
+changed
 
 # Developing a Java app using Azure Cosmos DB Java SDK
 
